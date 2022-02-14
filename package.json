@@ -1,0 +1,23 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "MB Express Web 실습\r hihihihihihihi",
+  "main": "no.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimhj0360/expressweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimhj0360/expressweb/issues"
+  },
+  "homepage": "https://github.com/Kimhj0360/expressweb#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
