@@ -23,6 +23,4 @@ app.post("/add", (req, res) => {
 
 app.use(express.static('contents'));
 
-
-
 app.listen(3000);
